@@ -1,0 +1,64 @@
+[12-Feb-2025 11:19:23 UTC] PHP Warning:  Undefined variable $cnt in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[12-Feb-2025 11:19:23 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[12-Feb-2025 11:19:23 UTC] PHP Warning:  Undefined variable $country_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[12-Feb-2025 11:19:23 UTC] PHP Warning:  Undefined variable $st in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[12-Feb-2025 11:19:23 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[12-Feb-2025 11:19:23 UTC] PHP Warning:  Undefined variable $state_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[12-Feb-2025 11:19:23 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 50
+[12-Feb-2025 11:19:23 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 51
+[18-Feb-2025 06:09:59 UTC] PHP Warning:  Undefined variable $cnt in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[18-Feb-2025 06:09:59 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[18-Feb-2025 06:09:59 UTC] PHP Warning:  Undefined variable $country_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[18-Feb-2025 06:09:59 UTC] PHP Warning:  Undefined variable $st in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[18-Feb-2025 06:09:59 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[18-Feb-2025 06:09:59 UTC] PHP Warning:  Undefined variable $state_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[18-Feb-2025 06:09:59 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 50
+[18-Feb-2025 06:09:59 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 51
+[24-Feb-2025 09:13:13 UTC] PHP Warning:  Undefined variable $cnt in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[24-Feb-2025 09:13:13 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[24-Feb-2025 09:13:13 UTC] PHP Warning:  Undefined variable $country_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[24-Feb-2025 09:13:13 UTC] PHP Warning:  Undefined variable $st in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[24-Feb-2025 09:13:13 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[24-Feb-2025 09:13:13 UTC] PHP Warning:  Undefined variable $state_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[24-Feb-2025 09:13:13 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 50
+[24-Feb-2025 09:13:13 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 51
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $cnt in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $country_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $st in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $state_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 50
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 51
+[27-Feb-2025 08:42:48 UTC] PHP Warning:  Undefined variable $cnt in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[27-Feb-2025 08:42:48 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[27-Feb-2025 08:42:48 UTC] PHP Warning:  Undefined variable $country_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[27-Feb-2025 08:42:48 UTC] PHP Warning:  Undefined variable $st in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[27-Feb-2025 08:42:48 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[27-Feb-2025 08:42:48 UTC] PHP Warning:  Undefined variable $state_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[27-Feb-2025 08:42:48 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 50
+[27-Feb-2025 08:42:48 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 51
+[02-Mar-2025 10:27:04 UTC] PHP Warning:  Undefined variable $cnt in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[02-Mar-2025 10:27:04 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[02-Mar-2025 10:27:04 UTC] PHP Warning:  Undefined variable $country_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[02-Mar-2025 10:27:04 UTC] PHP Warning:  Undefined variable $st in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[02-Mar-2025 10:27:04 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[02-Mar-2025 10:27:04 UTC] PHP Warning:  Undefined variable $state_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[02-Mar-2025 10:27:04 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 50
+[02-Mar-2025 10:27:04 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 51
+[02-Mar-2025 13:11:54 UTC] PHP Warning:  Undefined variable $cnt in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[02-Mar-2025 13:11:54 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[02-Mar-2025 13:11:54 UTC] PHP Warning:  Undefined variable $country_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[02-Mar-2025 13:11:54 UTC] PHP Warning:  Undefined variable $st in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[02-Mar-2025 13:11:54 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[02-Mar-2025 13:11:54 UTC] PHP Warning:  Undefined variable $state_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[02-Mar-2025 13:11:54 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 50
+[02-Mar-2025 13:11:54 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 51
+[03-Mar-2025 21:34:21 UTC] PHP Warning:  Undefined variable $cnt in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[03-Mar-2025 21:34:21 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[03-Mar-2025 21:34:21 UTC] PHP Warning:  Undefined variable $country_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 27
+[03-Mar-2025 21:34:21 UTC] PHP Warning:  Undefined variable $st in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[03-Mar-2025 21:34:21 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[03-Mar-2025 21:34:21 UTC] PHP Warning:  Undefined variable $state_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 40
+[03-Mar-2025 21:34:21 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 50
+[03-Mar-2025 21:34:21 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/cities/create.blade.php on line 51

@@ -1,0 +1,112 @@
+[08-Feb-2025 06:29:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrimStrings.php on line 7
+[08-Feb-2025 07:00:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[08-Feb-2025 13:21:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustProxies.php on line 8
+[08-Feb-2025 13:34:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[08-Feb-2025 21:38:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/EncryptCookies.php on line 7
+[08-Feb-2025 21:38:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustProxies.php on line 8
+[08-Feb-2025 21:38:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[08-Feb-2025 21:38:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[08-Feb-2025 21:38:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrimStrings.php on line 7
+[08-Feb-2025 21:38:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/Authenticate.php on line 7
+[08-Feb-2025 21:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustHosts.php on line 7
+[09-Feb-2025 02:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/EncryptCookies.php on line 7
+[09-Feb-2025 15:46:44 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustHosts.php on line 7
+[09-Feb-2025 18:31:43 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/Authenticate.php on line 7
+[10-Feb-2025 14:10:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[11-Feb-2025 13:39:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustProxies.php on line 8
+[11-Feb-2025 13:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[13-Feb-2025 10:16:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustHosts.php on line 7
+[13-Feb-2025 21:50:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrimStrings.php on line 7
+[16-Feb-2025 02:34:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/EncryptCookies.php on line 7
+[16-Feb-2025 08:50:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/Authenticate.php on line 7
+[24-Feb-2025 01:40:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustHosts" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustHosts.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustHosts.php on line 7
+[24-Feb-2025 03:42:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Cookie\Middleware\EncryptCookies" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/EncryptCookies.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/EncryptCookies.php on line 7
+[24-Feb-2025 08:03:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\VerifyCsrfToken" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/VerifyCsrfToken.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/VerifyCsrfToken.php on line 7
+[24-Feb-2025 16:42:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\PreventRequestsDuringMaintenance" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/PreventRequestsDuringMaintenance.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/PreventRequestsDuringMaintenance.php on line 7
+[24-Feb-2025 20:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Auth\Middleware\Authenticate" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/Authenticate.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/Authenticate.php on line 7
+[24-Feb-2025 23:26:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Http\Middleware\TrustProxies" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustProxies.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrustProxies.php on line 8
+[25-Feb-2025 15:39:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Middleware\TrimStrings" not found in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrimStrings.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Middleware/TrimStrings.php on line 7

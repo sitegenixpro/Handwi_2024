@@ -1,0 +1,54 @@
+[12-Feb-2025 11:26:14 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 83
+[12-Feb-2025 11:26:14 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[12-Feb-2025 11:26:14 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[12-Feb-2025 11:26:14 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[12-Feb-2025 11:26:14 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php:134
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php(134): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[13-Feb-2025 11:32:36 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 83
+[13-Feb-2025 11:32:36 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[13-Feb-2025 11:32:36 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[13-Feb-2025 11:32:36 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[13-Feb-2025 11:32:36 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php:134
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php(134): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[24-Feb-2025 09:10:32 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 83
+[24-Feb-2025 09:10:32 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[24-Feb-2025 09:10:32 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[24-Feb-2025 09:10:32 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[24-Feb-2025 09:10:32 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php:134
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php(134): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[24-Feb-2025 09:22:40 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 83
+[24-Feb-2025 09:22:40 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[24-Feb-2025 09:22:40 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[24-Feb-2025 09:22:40 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[24-Feb-2025 09:22:40 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php:134
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php(134): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[02-Mar-2025 01:53:13 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 83
+[02-Mar-2025 01:53:13 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[02-Mar-2025 01:53:13 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[02-Mar-2025 01:53:13 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[02-Mar-2025 01:53:13 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php:134
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php(134): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[09-Mar-2025 04:19:32 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 83
+[09-Mar-2025 04:19:32 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[09-Mar-2025 04:19:32 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[09-Mar-2025 04:19:32 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134
+[09-Mar-2025 04:19:32 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php:134
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php(134): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/servicebk27012023/create.blade.php on line 134

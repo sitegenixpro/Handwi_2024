@@ -1,0 +1,534 @@
+[12-Feb-2025 11:16:20 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[12-Feb-2025 11:16:20 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[12-Feb-2025 11:16:23 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/search_form.blade.php on line 85
+[12-Feb-2025 11:16:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php on line 165
+[12-Feb-2025 11:16:32 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[12-Feb-2025 11:16:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function currentPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[12-Feb-2025 11:16:36 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[12-Feb-2025 11:16:36 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[12-Feb-2025 11:16:36 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[12-Feb-2025 11:16:36 UTC] PHP Warning:  Attempt to read property "product_name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[12-Feb-2025 11:16:40 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 11
+[12-Feb-2025 11:16:40 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[12-Feb-2025 11:16:40 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[12-Feb-2025 11:16:40 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[12-Feb-2025 11:16:40 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php:63
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php(63): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Undefined variable $taxable in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 117
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[12-Feb-2025 11:16:44 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 145
+[12-Feb-2025 11:16:44 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 151
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 279
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 331
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 358
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 359
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 406
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 407
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 483
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 496
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 501
+[12-Feb-2025 11:16:48 UTC] PHP Warning:  Undefined variable $all_features in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 724
+[12-Feb-2025 11:16:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php:725
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 725
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 261
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 313
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 340
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 341
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 388
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 389
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 450
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 463
+[12-Feb-2025 11:16:57 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 468
+[12-Feb-2025 11:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php:1146
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 1146
+[12-Feb-2025 11:17:01 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 129
+[12-Feb-2025 11:17:01 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 136
+[12-Feb-2025 11:17:01 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 137
+[12-Feb-2025 11:17:09 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/category_attribute_ajax_list.blade.php on line 26
+[13-Feb-2025 11:21:55 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/category_attribute_ajax_list.blade.php on line 26
+[14-Feb-2025 04:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php on line 165
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 261
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 313
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 340
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 341
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 388
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 389
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 450
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 463
+[17-Feb-2025 10:10:14 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 468
+[17-Feb-2025 10:10:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php:1146
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 1146
+[17-Feb-2025 12:09:05 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[17-Feb-2025 12:09:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function currentPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[17-Feb-2025 16:59:01 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[17-Feb-2025 16:59:01 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[17-Feb-2025 16:59:01 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[17-Feb-2025 16:59:01 UTC] PHP Warning:  Attempt to read property "product_name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[17-Feb-2025 18:37:21 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[17-Feb-2025 18:37:21 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[17-Feb-2025 19:26:35 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 11
+[17-Feb-2025 19:26:35 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[17-Feb-2025 19:26:35 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[17-Feb-2025 19:26:35 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[17-Feb-2025 19:26:35 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php:63
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php(63): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 279
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 331
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 358
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 359
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 406
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 407
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 483
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 496
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 501
+[17-Feb-2025 20:33:09 UTC] PHP Warning:  Undefined variable $all_features in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 724
+[17-Feb-2025 20:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php:725
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 725
+[18-Feb-2025 00:55:55 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 129
+[18-Feb-2025 00:55:55 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 136
+[18-Feb-2025 00:55:55 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 137
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Undefined variable $taxable in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 117
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[18-Feb-2025 03:19:44 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 145
+[18-Feb-2025 03:19:44 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 151
+[18-Feb-2025 03:51:28 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/search_form.blade.php on line 85
+[18-Feb-2025 15:23:53 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/search_form.blade.php on line 85
+[18-Feb-2025 17:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php on line 165
+[18-Feb-2025 21:53:54 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 129
+[18-Feb-2025 21:53:54 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 136
+[18-Feb-2025 21:53:54 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 137
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Undefined variable $taxable in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 117
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[19-Feb-2025 04:26:30 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 145
+[19-Feb-2025 04:26:30 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 151
+[19-Feb-2025 08:04:19 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[19-Feb-2025 08:04:19 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[20-Feb-2025 02:55:38 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[20-Feb-2025 02:55:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function currentPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 261
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 313
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 340
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 341
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 388
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 389
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 450
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 463
+[21-Feb-2025 16:43:35 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 468
+[21-Feb-2025 16:43:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php:1146
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 1146
+[24-Feb-2025 02:34:25 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/category_attribute_ajax_list.blade.php on line 26
+[24-Feb-2025 09:13:44 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[24-Feb-2025 09:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function currentPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[24-Feb-2025 09:13:52 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 129
+[24-Feb-2025 09:13:52 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 136
+[24-Feb-2025 09:13:52 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 137
+[24-Feb-2025 09:13:54 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 11
+[24-Feb-2025 09:13:54 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[24-Feb-2025 09:13:54 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[24-Feb-2025 09:13:54 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[24-Feb-2025 09:13:54 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php:63
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php(63): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 279
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 331
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 358
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 359
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 406
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 407
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 483
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 496
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 501
+[24-Feb-2025 09:13:55 UTC] PHP Warning:  Undefined variable $all_features in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 724
+[24-Feb-2025 09:13:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php:725
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 725
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 261
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 313
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 340
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 341
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 388
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 389
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 450
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 463
+[24-Feb-2025 09:13:56 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 468
+[24-Feb-2025 09:13:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php:1146
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 1146
+[24-Feb-2025 09:13:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php on line 165
+[24-Feb-2025 09:14:00 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/search_form.blade.php on line 85
+[24-Feb-2025 09:14:10 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[24-Feb-2025 09:14:10 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[24-Feb-2025 09:14:10 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[24-Feb-2025 09:14:10 UTC] PHP Warning:  Attempt to read property "product_name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[24-Feb-2025 09:14:12 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $taxable in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 117
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[24-Feb-2025 09:14:12 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 145
+[24-Feb-2025 09:14:12 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 151
+[24-Feb-2025 09:14:20 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/category_attribute_ajax_list.blade.php on line 26
+[24-Feb-2025 09:26:33 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[24-Feb-2025 09:26:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function currentPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[24-Feb-2025 09:26:45 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 129
+[24-Feb-2025 09:26:45 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 136
+[24-Feb-2025 09:26:45 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 137
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 11
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[24-Feb-2025 09:26:46 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php:63
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php(63): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 279
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 331
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 358
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 359
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 406
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 407
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 483
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 496
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 501
+[24-Feb-2025 09:26:46 UTC] PHP Warning:  Undefined variable $all_features in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 724
+[24-Feb-2025 09:26:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php:725
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 725
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 261
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 313
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 340
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 341
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 388
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 389
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 450
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 463
+[24-Feb-2025 09:26:48 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 468
+[24-Feb-2025 09:26:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php:1146
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 1146
+[24-Feb-2025 09:26:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php on line 165
+[24-Feb-2025 09:26:51 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/search_form.blade.php on line 85
+[24-Feb-2025 09:27:00 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[24-Feb-2025 09:27:00 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[24-Feb-2025 09:27:00 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[24-Feb-2025 09:27:00 UTC] PHP Warning:  Attempt to read property "product_name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[24-Feb-2025 09:27:03 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $taxable in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 117
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[24-Feb-2025 09:27:03 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 145
+[24-Feb-2025 09:27:03 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 151
+[24-Feb-2025 09:27:10 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/category_attribute_ajax_list.blade.php on line 26
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 279
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 331
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 358
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 359
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 406
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 407
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 483
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 496
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 501
+[24-Feb-2025 20:43:18 UTC] PHP Warning:  Undefined variable $all_features in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 724
+[24-Feb-2025 20:43:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php:725
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 725
+[26-Feb-2025 18:34:09 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 11
+[26-Feb-2025 18:34:09 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[26-Feb-2025 18:34:09 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[26-Feb-2025 18:34:09 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[26-Feb-2025 18:34:09 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php:63
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php(63): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[27-Feb-2025 00:34:10 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 129
+[27-Feb-2025 00:34:10 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 136
+[27-Feb-2025 00:34:10 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/add_to_product.blade.php on line 137
+[27-Feb-2025 00:34:17 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 11
+[27-Feb-2025 00:34:17 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[27-Feb-2025 00:34:17 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[27-Feb-2025 00:34:17 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[27-Feb-2025 00:34:17 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php:63
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php(63): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[27-Feb-2025 00:34:20 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/category_attribute_ajax_list.blade.php on line 26
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 279
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 331
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 358
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 359
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 406
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 407
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 483
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 496
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 501
+[27-Feb-2025 00:34:24 UTC] PHP Warning:  Undefined variable $all_features in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 724
+[27-Feb-2025 00:34:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php:725
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 725
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 261
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 313
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 340
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 341
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 388
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 389
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 450
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 463
+[27-Feb-2025 00:34:26 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 468
+[27-Feb-2025 00:34:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php:1146
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 1146
+[27-Feb-2025 00:34:29 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[27-Feb-2025 00:34:29 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[27-Feb-2025 00:34:29 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[27-Feb-2025 00:34:29 UTC] PHP Warning:  Attempt to read property "product_name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[27-Feb-2025 00:34:31 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[27-Feb-2025 00:34:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function currentPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php:155
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/list.blade.php on line 155
+[27-Feb-2025 00:34:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php on line 165
+[27-Feb-2025 00:34:38 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[27-Feb-2025 00:34:38 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_variant_form.blade.php on line 9
+[27-Feb-2025 00:34:43 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/search_form.blade.php on line 85
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 60
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Undefined variable $taxable in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 71
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 117
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[27-Feb-2025 00:34:46 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 140
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 145
+[27-Feb-2025 00:34:46 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/simple_inventory.blade.php on line 151
+[02-Mar-2025 03:48:47 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[02-Mar-2025 03:48:47 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[02-Mar-2025 03:48:47 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[02-Mar-2025 03:48:47 UTC] PHP Warning:  Attempt to read property "product_name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[05-Mar-2025 13:28:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/product_import.blade.php on line 165
+[05-Mar-2025 15:22:27 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 11
+[05-Mar-2025 15:22:27 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[05-Mar-2025 15:22:27 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[05-Mar-2025 15:22:27 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[05-Mar-2025 15:22:27 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php:63
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php(63): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/categories.blade.php on line 63
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 279
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 330
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 331
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 346
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 358
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 359
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 406
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 407
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 483
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 496
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 501
+[06-Mar-2025 08:40:21 UTC] PHP Warning:  Undefined variable $all_features in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 724
+[06-Mar-2025 08:40:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php:725
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create.blade.php on line 725
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 261
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $default_category_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 312
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $parent_cat_name in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 313
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $product_master in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 328
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 340
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 341
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 388
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 389
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 450
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $mode in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 463
+[08-Mar-2025 14:59:04 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 468
+[08-Mar-2025 14:59:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php:1146
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/create_.blade.php on line 1146
+[09-Mar-2025 08:20:04 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[09-Mar-2025 08:20:04 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[09-Mar-2025 08:20:04 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57
+[09-Mar-2025 08:20:04 UTC] PHP Warning:  Attempt to read property "product_name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/product/featured_list.blade old.php on line 57

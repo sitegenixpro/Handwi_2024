@@ -1,0 +1,28 @@
+[08-Feb-2025 11:27:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php:524
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php on line 524
+[08-Feb-2025 22:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php:524
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php on line 524
+[14-Feb-2025 10:03:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php:524
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php on line 524
+[23-Feb-2025 00:00:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php:524
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php on line 524
+[24-Feb-2025 09:08:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php:524
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php on line 524
+[24-Feb-2025 09:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php:524
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php on line 524
+[26-Feb-2025 15:18:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php:524
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/dashboard.blade.php on line 524

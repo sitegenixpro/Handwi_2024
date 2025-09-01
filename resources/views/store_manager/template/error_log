@@ -1,0 +1,40 @@
+[12-Feb-2025 11:15:19 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php on line 2
+[12-Feb-2025 11:15:23 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php on line 2
+[13-Feb-2025 09:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php on line 2
+[14-Feb-2025 09:55:20 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php on line 2
+[24-Feb-2025 01:36:52 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php on line 2
+[24-Feb-2025 09:05:43 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php on line 2
+[24-Feb-2025 09:05:44 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php on line 2
+[24-Feb-2025 09:17:47 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php on line 2
+[24-Feb-2025 09:17:48 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/layout.blade.php on line 2
+[25-Feb-2025 07:38:26 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/template/header_footer.blade.php on line 2

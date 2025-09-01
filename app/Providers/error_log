@@ -1,0 +1,108 @@
+[25-Jan-2025 05:22:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php on line 8
+[28-Jan-2025 13:24:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php on line 7
+[05-Feb-2025 14:00:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php on line 8
+[06-Feb-2025 01:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php on line 8
+[07-Feb-2025 06:38:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php on line 11
+[07-Feb-2025 06:38:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php on line 7
+[07-Feb-2025 06:38:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php on line 10
+[07-Feb-2025 06:38:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php on line 8
+[07-Feb-2025 06:38:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php on line 8
+[08-Feb-2025 01:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php on line 7
+[08-Feb-2025 20:26:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php on line 10
+[09-Feb-2025 04:44:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php on line 11
+[09-Feb-2025 07:36:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php on line 7
+[09-Feb-2025 16:34:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php on line 11
+[11-Feb-2025 15:31:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php on line 10
+[11-Feb-2025 21:35:45 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php on line 8
+[14-Feb-2025 20:34:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php on line 8
+[19-Feb-2025 13:00:06 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php on line 7
+[19-Feb-2025 13:00:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php on line 8
+[19-Feb-2025 13:00:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php on line 8
+[19-Feb-2025 13:00:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php on line 10
+[19-Feb-2025 13:00:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php on line 11
+[21-Feb-2025 12:06:33 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\EventServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/EventServiceProvider.php on line 10
+[21-Feb-2025 15:14:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AppServiceProvider.php on line 7
+[21-Feb-2025 15:29:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\RouteServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/RouteServiceProvider.php on line 11
+[21-Feb-2025 22:01:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\ServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/BroadcastServiceProvider.php on line 8
+[21-Feb-2025 22:35:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Support\Providers\AuthServiceProvider" not found in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Providers/AuthServiceProvider.php on line 8

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Handwi</title>
+
+    <style>
+        body {
+  background: #f5f5f5;
+  color: #222222;
+}
+
+
+@keyframes fadeIn {
+  from {top: 20%; opacity: 0;}
+  to {top: 100; opacity: 1;}
+  
+}
+
+@-webkit-keyframes fadeIn {
+  from {top: 20%; opacity: 0;}
+  to {top: 100; opacity: 1;}
+  
+}
+
+.wrapper {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  animation: fadeIn 1000ms ease;
+  -webkit-animation: fadeIn 1000ms ease;
+  text-align: center;
+  
+}
+
+h1 {
+  font-size: 50px;
+  font-family: 'Poppins', sans-serif;
+  margin-bottom: 0;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.dot {
+  color: #000;
+}
+
+p {
+  text-align: center;
+  margin: 18px;
+  font-family: 'Muli', sans-serif;
+  font-weight: normal;
+  font-size: 20px;
+  
+}
+p a{
+    color: #000;
+}
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <img src="https://handwi.com/public/front_end/assets/images/handwi-logo-black.svg" >
+        <h1>Coming Soon<span class="dot">.</span></h1>
+        <p>Please contact <a href="mailto:info@handwi.com">info@handwi.com</a></p>
+        
+       </div>
+</body>
+</html>

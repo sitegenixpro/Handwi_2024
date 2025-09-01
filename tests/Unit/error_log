@@ -1,0 +1,28 @@
+[25-Jan-2025 00:48:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php on line 7
+[07-Feb-2025 06:38:06 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php on line 7
+[08-Feb-2025 23:22:34 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php on line 7
+[09-Feb-2025 14:04:03 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php on line 7
+[19-Feb-2025 17:50:50 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php on line 7
+[21-Feb-2025 20:55:57 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php on line 7
+[09-Mar-2025 16:42:31 UTC] PHP Fatal error:  Uncaught Error: Class "PHPUnit\Framework\TestCase" not found in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/tests/Unit/ExampleTest.php on line 7

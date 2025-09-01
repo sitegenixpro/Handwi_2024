@@ -1,0 +1,180 @@
+[12-Feb-2025 00:27:52 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79
+[12-Feb-2025 00:27:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79
+[12-Feb-2025 10:01:39 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[12-Feb-2025 10:01:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[12-Feb-2025 11:28:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php on line 77
+[12-Feb-2025 11:29:09 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[12-Feb-2025 11:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[12-Feb-2025 11:29:13 UTC] PHP Warning:  Undefined variable $item in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[12-Feb-2025 11:29:13 UTC] PHP Warning:  Attempt to read property "order_no" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[12-Feb-2025 11:29:21 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[12-Feb-2025 11:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[12-Feb-2025 11:29:25 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[12-Feb-2025 11:29:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[12-Feb-2025 11:29:29 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[12-Feb-2025 11:29:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[12-Feb-2025 11:29:37 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[12-Feb-2025 11:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[12-Feb-2025 11:29:41 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79
+[12-Feb-2025 11:29:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79
+[12-Feb-2025 15:13:41 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[12-Feb-2025 15:13:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[12-Feb-2025 21:00:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php on line 77
+[12-Feb-2025 23:38:51 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[12-Feb-2025 23:38:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[13-Feb-2025 00:05:42 UTC] PHP Warning:  Undefined variable $item in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[13-Feb-2025 00:05:42 UTC] PHP Warning:  Attempt to read property "order_no" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[15-Feb-2025 08:19:16 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[15-Feb-2025 08:19:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[17-Feb-2025 02:38:32 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[17-Feb-2025 02:38:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[17-Feb-2025 08:00:21 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[17-Feb-2025 08:00:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[17-Feb-2025 11:56:28 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[17-Feb-2025 11:56:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[17-Feb-2025 13:19:33 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[17-Feb-2025 13:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[17-Feb-2025 18:23:10 UTC] PHP Warning:  Undefined variable $item in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[17-Feb-2025 18:23:10 UTC] PHP Warning:  Attempt to read property "order_no" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[18-Feb-2025 07:28:25 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[18-Feb-2025 07:28:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[20-Feb-2025 18:35:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php on line 77
+[24-Feb-2025 09:13:46 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[24-Feb-2025 09:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[24-Feb-2025 09:13:47 UTC] PHP Warning:  Undefined variable $item in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[24-Feb-2025 09:13:47 UTC] PHP Warning:  Attempt to read property "order_no" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[24-Feb-2025 09:13:47 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[24-Feb-2025 09:13:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[24-Feb-2025 09:13:49 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[24-Feb-2025 09:13:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[24-Feb-2025 09:14:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php on line 77
+[24-Feb-2025 09:14:08 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[24-Feb-2025 09:14:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[24-Feb-2025 09:14:09 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79
+[24-Feb-2025 09:14:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79
+[24-Feb-2025 09:14:19 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[24-Feb-2025 09:14:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[24-Feb-2025 09:26:37 UTC] PHP Warning:  Undefined variable $item in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[24-Feb-2025 09:26:37 UTC] PHP Warning:  Attempt to read property "order_no" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission.blade.php on line 96
+[24-Feb-2025 09:26:39 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[24-Feb-2025 09:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[24-Feb-2025 09:26:39 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[24-Feb-2025 09:26:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/orders.blade.php on line 85
+[24-Feb-2025 09:26:40 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[24-Feb-2025 09:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request.blade.php on line 71
+[24-Feb-2025 09:26:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/booking_workshop_list.blade.php on line 77
+[24-Feb-2025 09:26:58 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[24-Feb-2025 09:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php:96
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/commission_service.blade.php on line 96
+[24-Feb-2025 09:27:00 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79
+[24-Feb-2025 09:27:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79
+[24-Feb-2025 09:27:08 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[24-Feb-2025 09:27:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php:70
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/refund_request_services.blade.php on line 70
+[26-Feb-2025 00:43:40 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[26-Feb-2025 00:43:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/customer_list.blade.php on line 57
+[01-Mar-2025 12:00:19 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79
+[01-Mar-2025 12:00:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/reports/service_request_list.blade.php on line 79

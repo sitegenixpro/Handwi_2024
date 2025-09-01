@@ -1,0 +1,44 @@
+[12-Feb-2025 11:11:32 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 19
+[12-Feb-2025 11:11:32 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 20
+[12-Feb-2025 11:11:32 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 111
+[12-Feb-2025 11:11:32 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 112
+[12-Feb-2025 11:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php on line 165
+[13-Feb-2025 07:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php on line 165
+[15-Feb-2025 04:51:07 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 19
+[15-Feb-2025 04:51:07 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 20
+[15-Feb-2025 04:51:07 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 111
+[15-Feb-2025 04:51:07 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 112
+[17-Feb-2025 03:45:11 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 19
+[17-Feb-2025 03:45:11 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 20
+[17-Feb-2025 03:45:11 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 111
+[17-Feb-2025 03:45:11 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 112
+[18-Feb-2025 00:18:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php on line 165
+[24-Feb-2025 09:06:30 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 19
+[24-Feb-2025 09:06:30 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 20
+[24-Feb-2025 09:06:30 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 111
+[24-Feb-2025 09:06:30 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 112
+[24-Feb-2025 09:06:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php on line 165
+[24-Feb-2025 09:18:31 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 19
+[24-Feb-2025 09:18:31 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 20
+[24-Feb-2025 09:18:31 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 111
+[24-Feb-2025 09:18:31 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 112
+[24-Feb-2025 09:18:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/master_product_import.blade.php on line 165
+[04-Mar-2025 17:35:43 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 19
+[04-Mar-2025 17:35:43 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 20
+[04-Mar-2025 17:35:43 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 111
+[04-Mar-2025 17:35:43 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/portal/product_request/create.blade.php on line 112

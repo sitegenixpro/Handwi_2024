@@ -1,0 +1,90 @@
+[12-Feb-2025 11:12:01 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[12-Feb-2025 11:12:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[12-Feb-2025 11:12:05 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[12-Feb-2025 11:12:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[12-Feb-2025 11:12:10 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[12-Feb-2025 11:12:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[13-Feb-2025 09:51:15 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[13-Feb-2025 09:51:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[13-Feb-2025 11:41:35 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[13-Feb-2025 11:41:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[17-Feb-2025 20:16:29 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[17-Feb-2025 20:16:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[24-Feb-2025 09:07:39 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[24-Feb-2025 09:07:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[24-Feb-2025 09:07:48 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[24-Feb-2025 09:07:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[24-Feb-2025 09:07:49 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[24-Feb-2025 09:07:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[24-Feb-2025 09:19:50 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[24-Feb-2025 09:19:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[24-Feb-2025 09:19:52 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[24-Feb-2025 09:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[24-Feb-2025 09:19:54 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[24-Feb-2025 09:19:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[26-Feb-2025 16:01:24 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[26-Feb-2025 16:01:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[27-Feb-2025 05:43:15 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[27-Feb-2025 05:43:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[27-Feb-2025 15:57:49 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[27-Feb-2025 15:57:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[28-Feb-2025 03:29:21 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[28-Feb-2025 03:29:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php:79
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/service_request_list.blade.php on line 79
+[28-Feb-2025 15:31:30 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[28-Feb-2025 15:31:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/order_report.blade.php on line 85
+[01-Mar-2025 19:03:48 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78
+[01-Mar-2025 19:03:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/report/services_report.blade.php on line 78

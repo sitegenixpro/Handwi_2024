@@ -1,0 +1,60 @@
+[12-Feb-2025 00:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreManagerController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreManagerController.php on line 19
+[12-Feb-2025 07:48:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/LoginController.php on line 9
+[12-Feb-2025 07:48:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreManagerController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreManagerController.php on line 19
+[12-Feb-2025 07:49:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/DashboardController.php on line 8
+[12-Feb-2025 07:49:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreController.php on line 19
+[12-Feb-2025 19:43:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/LoginController.php on line 9
+[13-Feb-2025 06:03:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreController.php on line 19
+[15-Feb-2025 00:57:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/DashboardController.php on line 8
+[17-Feb-2025 00:52:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreController.php on line 19
+[17-Feb-2025 04:13:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/LoginController.php on line 9
+[17-Feb-2025 04:34:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/DashboardController.php on line 8
+[18-Feb-2025 05:15:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreManagerController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreManagerController.php on line 19
+[27-Feb-2025 10:14:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/DashboardController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/DashboardController.php on line 8
+[28-Feb-2025 11:01:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/LoginController.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/LoginController.php on line 9
+[01-Mar-2025 07:34:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreManagerController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/store/StoreManagerController.php on line 19

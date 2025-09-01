@@ -1,0 +1,6 @@
+[25-Jan-2025 03:27:55 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/dxbitprojects/public_html/handwi/app/Events/DemoEvent.php on line 13
+[07-Feb-2025 06:49:58 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/dxbitprojects/public_html/handwi/app/Events/DemoEvent.php on line 13
+[09-Feb-2025 04:34:48 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/dxbitprojects/public_html/handwi/app/Events/DemoEvent.php on line 13
+[12-Feb-2025 02:47:15 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/dxbitprojects/public_html/handwi/app/Events/DemoEvent.php on line 13
+[19-Feb-2025 15:18:11 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/dxbitprojects/public_html/handwi/app/Events/DemoEvent.php on line 13
+[21-Feb-2025 21:17:07 UTC] PHP Fatal error:  Trait "Illuminate\Foundation\Events\Dispatchable" not found in /home/dxbitprojects/public_html/handwi/app/Events/DemoEvent.php on line 13

@@ -1,0 +1,65 @@
+[12-Feb-2025 11:20:01 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[12-Feb-2025 11:20:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[12-Feb-2025 11:20:06 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[12-Feb-2025 11:20:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[12-Feb-2025 18:50:18 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[12-Feb-2025 18:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[21-Feb-2025 01:38:46 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[21-Feb-2025 01:38:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[24-Feb-2025 09:13:40 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[24-Feb-2025 09:13:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[24-Feb-2025 09:13:44 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[24-Feb-2025 09:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[24-Feb-2025 09:26:24 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[24-Feb-2025 09:26:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[24-Feb-2025 09:26:31 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[24-Feb-2025 09:26:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[25-Feb-2025 15:03:10 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[25-Feb-2025 15:03:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[26-Feb-2025 09:14:01 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[26-Feb-2025 09:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[27-Feb-2025 00:35:34 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[27-Feb-2025 00:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/list.blade.php on line 44
+[27-Feb-2025 00:35:37 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[27-Feb-2025 00:35:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[09-Mar-2025 05:31:14 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40
+[09-Mar-2025 05:31:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/rating/reply.blade.php on line 40

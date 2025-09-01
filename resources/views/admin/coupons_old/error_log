@@ -1,0 +1,54 @@
+[10-Feb-2025 22:30:31 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 86
+[10-Feb-2025 22:30:31 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[10-Feb-2025 22:30:31 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[10-Feb-2025 22:30:31 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[10-Feb-2025 22:30:31 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php:137
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php(137): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[12-Feb-2025 11:26:25 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 86
+[12-Feb-2025 11:26:25 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[12-Feb-2025 11:26:25 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[12-Feb-2025 11:26:25 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[12-Feb-2025 11:26:25 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php:137
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php(137): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[18-Feb-2025 12:20:57 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 86
+[18-Feb-2025 12:20:57 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[18-Feb-2025 12:20:57 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[18-Feb-2025 12:20:57 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[18-Feb-2025 12:20:57 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php:137
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php(137): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[24-Feb-2025 09:08:52 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 86
+[24-Feb-2025 09:08:52 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[24-Feb-2025 09:08:52 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[24-Feb-2025 09:08:52 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[24-Feb-2025 09:08:52 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php:137
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php(137): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[24-Feb-2025 09:21:00 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 86
+[24-Feb-2025 09:21:00 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[24-Feb-2025 09:21:00 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[24-Feb-2025 09:21:00 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[24-Feb-2025 09:21:00 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php:137
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php(137): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[27-Feb-2025 08:41:05 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 86
+[27-Feb-2025 08:41:05 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[27-Feb-2025 08:41:05 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[27-Feb-2025 08:41:05 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137
+[27-Feb-2025 08:41:05 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php:137
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php(137): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/coupons_old/create.blade.php on line 137

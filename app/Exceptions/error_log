@@ -1,0 +1,24 @@
+[25-Jan-2025 02:27:27 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php on line 8
+[07-Feb-2025 06:49:46 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php on line 8
+[08-Feb-2025 21:18:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php on line 8
+[12-Feb-2025 15:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php on line 8
+[19-Feb-2025 15:18:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php on line 8
+[21-Feb-2025 12:11:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Exceptions\Handler" not found in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Exceptions/Handler.php on line 8

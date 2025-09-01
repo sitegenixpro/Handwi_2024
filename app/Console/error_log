@@ -1,0 +1,24 @@
+[07-Feb-2025 06:50:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php on line 8
+[09-Feb-2025 00:07:00 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php on line 8
+[15-Feb-2025 19:31:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php on line 8
+[19-Feb-2025 15:18:02 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php on line 8
+[21-Feb-2025 16:37:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php on line 8
+[10-Mar-2025 07:32:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Console\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Console/Kernel.php on line 8

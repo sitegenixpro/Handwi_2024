@@ -1,0 +1,91 @@
+[25-Jan-2025 06:59:41 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[25-Jan-2025 06:59:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[28-Jan-2025 14:21:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 7
+[28-Jan-2025 14:21:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 8
+[28-Jan-2025 14:21:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 9
+[28-Jan-2025 14:21:02 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[28-Jan-2025 14:21:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[12-Feb-2025 11:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 7
+[12-Feb-2025 11:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 8
+[12-Feb-2025 11:10:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 9
+[12-Feb-2025 11:10:59 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[12-Feb-2025 11:10:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[12-Feb-2025 11:11:07 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[12-Feb-2025 11:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[13-Feb-2025 20:19:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 7
+[13-Feb-2025 20:19:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 8
+[13-Feb-2025 20:19:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 9
+[13-Feb-2025 20:19:09 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[13-Feb-2025 20:19:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[15-Feb-2025 00:21:05 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[15-Feb-2025 00:21:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[22-Feb-2025 06:58:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 7
+[22-Feb-2025 06:58:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 8
+[22-Feb-2025 06:58:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 9
+[22-Feb-2025 06:58:53 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[22-Feb-2025 06:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[24-Feb-2025 09:07:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 7
+[24-Feb-2025 09:07:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 8
+[24-Feb-2025 09:07:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 9
+[24-Feb-2025 09:07:37 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[24-Feb-2025 09:07:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[24-Feb-2025 09:07:38 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[24-Feb-2025 09:07:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[24-Feb-2025 09:19:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 7
+[24-Feb-2025 09:19:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 8
+[24-Feb-2025 09:19:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 9
+[24-Feb-2025 09:19:40 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[24-Feb-2025 09:19:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[24-Feb-2025 09:19:41 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[24-Feb-2025 09:19:41 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[01-Mar-2025 09:56:15 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[01-Mar-2025 09:56:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[02-Mar-2025 01:09:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 7
+[02-Mar-2025 01:09:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 8
+[02-Mar-2025 01:09:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 9
+[02-Mar-2025 01:09:24 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[02-Mar-2025 01:09:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php:47
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/list.blade.php on line 47
+[08-Mar-2025 11:51:32 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40
+[08-Mar-2025 11:51:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/rating/reply.blade.php on line 40

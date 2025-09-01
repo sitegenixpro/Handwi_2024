@@ -1,0 +1,173 @@
+[11-Feb-2025 02:08:20 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/category_attribute_ajax_list.blade.php on line 26
+[12-Feb-2025 11:14:31 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 129
+[12-Feb-2025 11:14:31 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 136
+[12-Feb-2025 11:14:31 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 137
+[12-Feb-2025 11:14:35 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/search_form.blade.php on line 52
+[12-Feb-2025 11:14:39 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[12-Feb-2025 11:14:39 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[12-Feb-2025 11:14:39 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[12-Feb-2025 11:14:39 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 91
+[12-Feb-2025 11:14:39 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[12-Feb-2025 11:14:39 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[12-Feb-2025 11:14:39 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[12-Feb-2025 11:14:39 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 114
+[12-Feb-2025 11:14:39 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 119
+[12-Feb-2025 11:14:43 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[12-Feb-2025 11:14:43 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[12-Feb-2025 11:14:47 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/category_attribute_ajax_list.blade.php on line 26
+[12-Feb-2025 11:14:51 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 21
+[12-Feb-2025 11:14:51 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 22
+[12-Feb-2025 11:14:51 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 61
+[12-Feb-2025 11:14:51 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[12-Feb-2025 11:14:51 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[12-Feb-2025 11:14:51 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[12-Feb-2025 11:14:51 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php:112
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php(112): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[12-Feb-2025 13:29:27 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 129
+[12-Feb-2025 13:29:27 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 136
+[12-Feb-2025 13:29:27 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 137
+[12-Feb-2025 15:27:15 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 21
+[12-Feb-2025 15:27:15 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 22
+[12-Feb-2025 15:27:15 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 61
+[12-Feb-2025 15:27:15 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[12-Feb-2025 15:27:15 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[12-Feb-2025 15:27:15 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[12-Feb-2025 15:27:15 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php:112
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php(112): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[12-Feb-2025 22:29:15 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[12-Feb-2025 22:29:15 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[12-Feb-2025 22:29:15 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[12-Feb-2025 22:29:15 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 91
+[12-Feb-2025 22:29:15 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[12-Feb-2025 22:29:15 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[12-Feb-2025 22:29:15 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[12-Feb-2025 22:29:15 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 114
+[12-Feb-2025 22:29:15 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 119
+[15-Feb-2025 11:12:21 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[15-Feb-2025 11:12:21 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[15-Feb-2025 18:05:52 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/search_form.blade.php on line 52
+[20-Feb-2025 07:07:12 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[20-Feb-2025 07:07:12 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[20-Feb-2025 07:07:12 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[20-Feb-2025 07:07:12 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 91
+[20-Feb-2025 07:07:12 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[20-Feb-2025 07:07:12 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[20-Feb-2025 07:07:12 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[20-Feb-2025 07:07:12 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 114
+[20-Feb-2025 07:07:12 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 119
+[22-Feb-2025 03:32:23 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 21
+[22-Feb-2025 03:32:23 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 22
+[22-Feb-2025 03:32:23 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 61
+[22-Feb-2025 03:32:23 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[22-Feb-2025 03:32:23 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[22-Feb-2025 03:32:23 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[22-Feb-2025 03:32:23 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php:112
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php(112): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[23-Feb-2025 06:31:16 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 129
+[23-Feb-2025 06:31:16 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 136
+[23-Feb-2025 06:31:16 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 137
+[23-Feb-2025 16:23:24 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/category_attribute_ajax_list.blade.php on line 26
+[24-Feb-2025 09:05:24 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 21
+[24-Feb-2025 09:05:24 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 22
+[24-Feb-2025 09:05:24 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 61
+[24-Feb-2025 09:05:24 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[24-Feb-2025 09:05:24 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[24-Feb-2025 09:05:24 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[24-Feb-2025 09:05:24 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php:112
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php(112): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[24-Feb-2025 09:05:49 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 129
+[24-Feb-2025 09:05:49 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 136
+[24-Feb-2025 09:05:49 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 137
+[24-Feb-2025 09:05:52 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/search_form.blade.php on line 52
+[24-Feb-2025 09:06:56 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/category_attribute_ajax_list.blade.php on line 26
+[24-Feb-2025 09:06:57 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[24-Feb-2025 09:06:57 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[24-Feb-2025 09:06:58 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:06:58 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:06:58 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:06:58 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 91
+[24-Feb-2025 09:06:58 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[24-Feb-2025 09:06:58 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[24-Feb-2025 09:06:58 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[24-Feb-2025 09:06:58 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 114
+[24-Feb-2025 09:06:58 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 119
+[24-Feb-2025 09:17:08 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 21
+[24-Feb-2025 09:17:08 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 22
+[24-Feb-2025 09:17:08 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 61
+[24-Feb-2025 09:17:08 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[24-Feb-2025 09:17:08 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[24-Feb-2025 09:17:08 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[24-Feb-2025 09:17:08 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php:112
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php(112): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[24-Feb-2025 09:17:44 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 129
+[24-Feb-2025 09:17:44 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 136
+[24-Feb-2025 09:17:44 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 137
+[24-Feb-2025 09:17:46 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/search_form.blade.php on line 52
+[24-Feb-2025 09:18:56 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/category_attribute_ajax_list.blade.php on line 26
+[24-Feb-2025 09:18:58 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[24-Feb-2025 09:18:58 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[24-Feb-2025 09:18:59 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:18:59 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:18:59 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[24-Feb-2025 09:18:59 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 91
+[24-Feb-2025 09:18:59 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[24-Feb-2025 09:18:59 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[24-Feb-2025 09:18:59 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[24-Feb-2025 09:18:59 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 114
+[24-Feb-2025 09:18:59 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 119
+[25-Feb-2025 06:24:00 UTC] PHP Warning:  Undefined variable $combinations in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[25-Feb-2025 06:24:00 UTC] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/product_variant_form.blade.php on line 9
+[25-Feb-2025 17:58:47 UTC] PHP Fatal error:  'continue' not in the 'loop' or 'switch' context in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/search_form.blade.php on line 52
+[02-Mar-2025 18:01:57 UTC] PHP Warning:  Undefined variable $input_index in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[02-Mar-2025 18:01:57 UTC] PHP Warning:  Undefined variable $t_variant_allow_backorder in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[02-Mar-2025 18:01:57 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 60
+[02-Mar-2025 18:01:57 UTC] PHP Warning:  Undefined variable $default_attribute_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 91
+[02-Mar-2025 18:01:57 UTC] PHP Warning:  Undefined variable $product in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[02-Mar-2025 18:01:57 UTC] PHP Warning:  Attempt to read property "image" on null in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[02-Mar-2025 18:01:57 UTC] PHP Deprecated:  explode(): Passing null to parameter #2 ($string) of type string is deprecated in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 110
+[02-Mar-2025 18:01:57 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 114
+[02-Mar-2025 18:01:57 UTC] PHP Warning:  Undefined variable $readonly in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/simple_inventory.blade.php on line 119
+[03-Mar-2025 05:15:13 UTC] PHP Warning:  Undefined variable $id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 129
+[03-Mar-2025 05:15:13 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 136
+[03-Mar-2025 05:15:13 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/add_to_product.blade.php on line 137
+[03-Mar-2025 07:53:36 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 21
+[03-Mar-2025 07:53:36 UTC] PHP Warning:  Undefined variable $product_type in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 22
+[03-Mar-2025 07:53:36 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 61
+[03-Mar-2025 07:53:36 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[03-Mar-2025 07:53:36 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[03-Mar-2025 07:53:36 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112
+[03-Mar-2025 07:53:36 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php:112
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php(112): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/store_manager/product/create.blade.php on line 112

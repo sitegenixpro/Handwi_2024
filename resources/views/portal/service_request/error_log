@@ -1,0 +1,120 @@
+[12-Feb-2025 11:12:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php on line 41
+[12-Feb-2025 11:12:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php on line 53
+[12-Feb-2025 11:12:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 4
+[12-Feb-2025 11:12:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 5
+[12-Feb-2025 11:12:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 6
+[12-Feb-2025 11:12:50 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[12-Feb-2025 11:12:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[12-Feb-2025 11:12:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php on line 53
+[16-Feb-2025 16:24:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 4
+[16-Feb-2025 16:24:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 5
+[16-Feb-2025 16:24:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 6
+[16-Feb-2025 16:24:23 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[16-Feb-2025 16:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[16-Feb-2025 17:07:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php on line 41
+[16-Feb-2025 17:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php on line 53
+[16-Feb-2025 21:57:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php on line 53
+[22-Feb-2025 04:02:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php on line 53
+[22-Feb-2025 11:24:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php on line 41
+[24-Feb-2025 09:06:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 4
+[24-Feb-2025 09:06:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 5
+[24-Feb-2025 09:06:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 6
+[24-Feb-2025 09:06:14 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[24-Feb-2025 09:06:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[24-Feb-2025 09:06:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php on line 41
+[24-Feb-2025 09:06:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php on line 53
+[24-Feb-2025 09:06:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php on line 53
+[24-Feb-2025 09:18:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 4
+[24-Feb-2025 09:18:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 5
+[24-Feb-2025 09:18:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 6
+[24-Feb-2025 09:18:15 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[24-Feb-2025 09:18:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[24-Feb-2025 09:18:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php on line 41
+[24-Feb-2025 09:18:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php on line 53
+[24-Feb-2025 09:18:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php on line 53
+[27-Feb-2025 07:51:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php on line 53
+[28-Feb-2025 15:22:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 4
+[28-Feb-2025 15:22:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 5
+[28-Feb-2025 15:22:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 6
+[28-Feb-2025 15:22:49 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[28-Feb-2025 15:22:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[01-Mar-2025 23:44:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php:41
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade.php on line 41
+[03-Mar-2025 17:48:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details_edit.blade.php on line 53
+[05-Mar-2025 03:58:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 4
+[05-Mar-2025 03:58:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 5
+[05-Mar-2025 03:58:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:1) in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 6
+[05-Mar-2025 03:58:05 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[05-Mar-2025 03:58:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php:101
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/list.blade.php on line 101
+[09-Mar-2025 06:11:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/service_request/details.blade - Copy.php on line 53

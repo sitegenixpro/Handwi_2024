@@ -1,0 +1,24 @@
+[07-Feb-2025 06:39:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php on line 10
+[08-Feb-2025 23:42:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php on line 10
+[19-Feb-2025 08:59:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php on line 10
+[19-Feb-2025 15:18:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php on line 10
+[21-Feb-2025 08:39:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php on line 10
+[09-Mar-2025 17:41:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\Kernel" not found in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Kernel.php on line 10

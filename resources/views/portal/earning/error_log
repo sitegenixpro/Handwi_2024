@@ -1,0 +1,25 @@
+[12-Feb-2025 11:10:32 UTC] PHP Warning:  Undefined variable $datamain in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203
+[12-Feb-2025 11:10:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php:203
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203
+[21-Feb-2025 03:51:43 UTC] PHP Warning:  Undefined variable $datamain in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203
+[21-Feb-2025 03:51:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php:203
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203
+[24-Feb-2025 09:07:15 UTC] PHP Warning:  Undefined variable $datamain in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203
+[24-Feb-2025 09:07:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php:203
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203
+[24-Feb-2025 09:19:15 UTC] PHP Warning:  Undefined variable $datamain in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203
+[24-Feb-2025 09:19:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php:203
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203
+[27-Feb-2025 03:31:22 UTC] PHP Warning:  Undefined variable $datamain in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203
+[27-Feb-2025 03:31:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php:203
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/earning/service.blade.php on line 203

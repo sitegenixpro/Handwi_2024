@@ -1,0 +1,10 @@
+[12-Feb-2025 11:27:49 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 31
+[12-Feb-2025 11:27:49 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 32
+[12-Feb-2025 16:03:23 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 31
+[12-Feb-2025 16:03:23 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 32
+[24-Feb-2025 09:33:02 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 31
+[24-Feb-2025 09:33:02 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 32
+[24-Feb-2025 09:33:19 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 31
+[24-Feb-2025 09:33:19 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 32
+[27-Feb-2025 14:44:26 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 31
+[27-Feb-2025 14:44:26 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/brand/create.blade.php on line 32

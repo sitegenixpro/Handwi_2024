@@ -1,0 +1,48 @@
+[12-Feb-2025 11:13:24 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php on line 2
+[12-Feb-2025 11:15:04 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php on line 2
+[13-Feb-2025 21:28:35 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php on line 2
+[14-Feb-2025 03:44:45 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php on line 2
+[19-Feb-2025 20:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php on line 2
+[24-Feb-2025 09:06:46 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php on line 2
+[24-Feb-2025 09:06:47 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php on line 2
+[24-Feb-2025 09:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php on line 2
+[24-Feb-2025 09:18:47 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php on line 2
+[24-Feb-2025 21:34:41 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php on line 2
+[05-Mar-2025 08:16:54 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/layout.blade.php on line 2
+[05-Mar-2025 14:13:23 UTC] PHP Fatal error:  Uncaught Error: Class "Request" not found in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/template/header_footer.blade.php on line 2

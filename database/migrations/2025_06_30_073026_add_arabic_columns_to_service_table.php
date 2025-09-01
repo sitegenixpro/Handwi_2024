@@ -1,0 +1,42 @@
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+use Illuminate\Database\Schema\Blueprint;
+use Illuminate\Support\Facades\Schema;
+
+class AddArabicColumnsToServiceTable extends Migration
+{
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::table('service', function (Blueprint $table) {
+            if (!Schema::hasColumn('service', 'name_ar')) {
+                $table->string('name_ar')->nullable()->after('name');
+            }
+            if (!Schema::hasColumn('service', 'term_and_condition_ar')) {
+                $table->text('term_and_condition_ar')->nullable()->after('term_and_condition');
+            }
+        });
+    }
+
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::table('service', function (Blueprint $table) {
+            if (Schema::hasColumn('service', 'name_ar')) {
+                $table->dropColumn('name_ar');
+            }
+            if (Schema::hasColumn('service', 'term_and_condition_ar')) {
+                $table->dropColumn('term_and_condition_ar');
+            }
+        });
+    }
+}

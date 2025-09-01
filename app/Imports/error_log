@@ -1,0 +1,24 @@
+[24-Jan-2025 20:17:53 UTC] PHP Fatal error:  Uncaught Error: Interface "Maatwebsite\Excel\Concerns\ToCollection" not found in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php on line 8
+[07-Feb-2025 06:38:57 UTC] PHP Fatal error:  Uncaught Error: Interface "Maatwebsite\Excel\Concerns\ToCollection" not found in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php on line 8
+[09-Feb-2025 00:49:34 UTC] PHP Fatal error:  Uncaught Error: Interface "Maatwebsite\Excel\Concerns\ToCollection" not found in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php on line 8
+[11-Feb-2025 23:41:01 UTC] PHP Fatal error:  Uncaught Error: Interface "Maatwebsite\Excel\Concerns\ToCollection" not found in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php on line 8
+[19-Feb-2025 15:18:56 UTC] PHP Fatal error:  Uncaught Error: Interface "Maatwebsite\Excel\Concerns\ToCollection" not found in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php on line 8
+[21-Feb-2025 23:53:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Maatwebsite\Excel\Concerns\ToCollection" not found in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Imports/ProductImport.php on line 8

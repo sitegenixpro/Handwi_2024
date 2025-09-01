@@ -1,0 +1,1036 @@
+[10-Feb-2025 13:29:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponsController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponsController.php on line 21
+[10-Feb-2025 13:36:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/FaqController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/FaqController.php on line 10
+[10-Feb-2025 16:00:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LoginController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LoginController.php on line 12
+[10-Feb-2025 19:17:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomeBannerSection.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomeBannerSection.php on line 9
+[10-Feb-2025 21:00:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningsController.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningsController.php on line 33
+[10-Feb-2025 23:02:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CuisinesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CuisinesController.php on line 11
+[11-Feb-2025 00:28:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CountryController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CountryController.php on line 10
+[11-Feb-2025 01:09:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LogosController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LogosController.php on line 11
+[11-Feb-2025 01:19:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/IndustryTypesController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/IndustryTypesController.php on line 10
+[11-Feb-2025 02:20:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/MainCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/MainCategory.php on line 12
+[11-Feb-2025 02:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AccountTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AccountTypeController.php on line 11
+[11-Feb-2025 03:46:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponCategory.php on line 12
+[11-Feb-2025 08:08:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Brand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Brand.php on line 13
+[11-Feb-2025 09:16:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceCategory.php on line 12
+[11-Feb-2025 12:20:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BuildingTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BuildingTypeController.php on line 12
+[11-Feb-2025 19:39:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomebannerController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomebannerController.php on line 11
+[12-Feb-2025 00:51:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreTypeController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreTypeController.php on line 10
+[12-Feb-2025 07:49:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceEarningsController.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceEarningsController.php on line 32
+[12-Feb-2025 07:49:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BuildingTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BuildingTypeController.php on line 12
+[12-Feb-2025 07:49:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponBrand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponBrand.php on line 12
+[12-Feb-2025 07:50:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMaster.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMaster.php on line 11
+[12-Feb-2025 07:50:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CuisinesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CuisinesController.php on line 11
+[12-Feb-2025 07:50:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponsController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponsController.php on line 21
+[12-Feb-2025 07:50:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorsController.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorsController.php on line 34
+[12-Feb-2025 07:50:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponVoucherController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponVoucherController.php on line 16
+[12-Feb-2025 07:50:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/UsersController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/UsersController.php on line 20
+[12-Feb-2025 07:50:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/RatingController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/RatingController.php on line 16
+[12-Feb-2025 07:51:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CountryController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CountryController.php on line 10
+[12-Feb-2025 07:51:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/IndustryTypesController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/IndustryTypesController.php on line 10
+[12-Feb-2025 07:51:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/OrderController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/OrderController.php on line 16
+[12-Feb-2025 07:51:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BankController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BankController.php on line 10
+[12-Feb-2025 07:51:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PagesController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PagesController.php on line 17
+[12-Feb-2025 07:52:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningsController.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningsController.php on line 33
+[12-Feb-2025 07:52:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BannerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BannerController.php on line 16
+[12-Feb-2025 07:52:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomAppBanner.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomAppBanner.php on line 15
+[12-Feb-2025 07:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ActivityTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ActivityTypeController.php on line 11
+[12-Feb-2025 07:52:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceTypeController.php on line 11
+[12-Feb-2025 07:52:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AttributeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AttributeController.php on line 12
+[12-Feb-2025 07:53:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersTypeController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersTypeController.php on line 10
+[12-Feb-2025 07:53:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SkinColor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SkinColor.php on line 10
+[12-Feb-2025 07:53:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CitiesController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CitiesController.php on line 12
+[12-Feb-2025 07:53:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ReportController.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ReportController.php on line 30
+[12-Feb-2025 07:53:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductRequestController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductRequestController.php on line 12
+[12-Feb-2025 07:53:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomersController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomersController.php on line 23
+[12-Feb-2025 07:55:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMasterImport.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMasterImport.php on line 34
+[12-Feb-2025 07:55:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersController.php on line 19
+[12-Feb-2025 07:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceReportController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceReportController.php on line 8
+[12-Feb-2025 07:55:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PromotionBannerController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PromotionBannerController.php on line 15
+[12-Feb-2025 07:55:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserDesignation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserDesignation.php on line 10
+[12-Feb-2025 07:55:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HealthBeautyCategory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HealthBeautyCategory.php on line 11
+[12-Feb-2025 07:56:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AccountTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AccountTypeController.php on line 11
+[12-Feb-2025 07:56:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HairColor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HairColor.php on line 10
+[12-Feb-2025 07:56:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StatesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StatesController.php on line 11
+[12-Feb-2025 07:56:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserController.php on line 15
+[12-Feb-2025 07:56:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponCategory.php on line 12
+[12-Feb-2025 07:56:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContactUsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContactUsController.php on line 8
+[12-Feb-2025 07:57:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Brand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Brand.php on line 13
+[12-Feb-2025 07:57:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/MainCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/MainCategory.php on line 12
+[12-Feb-2025 07:57:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductFeatures.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductFeatures.php on line 12
+[12-Feb-2025 07:57:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SubscriberEmailController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SubscriberEmailController.php on line 15
+[12-Feb-2025 07:57:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AreaController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AreaController.php on line 13
+[12-Feb-2025 07:57:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductController.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductController.php on line 44
+[12-Feb-2025 07:57:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ModaCategories.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ModaCategories.php on line 12
+[12-Feb-2025 07:58:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TestimonialsController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TestimonialsController.php on line 11
+[12-Feb-2025 07:58:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomebannerController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomebannerController.php on line 11
+[12-Feb-2025 07:58:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorLocationController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorLocationController.php on line 16
+[12-Feb-2025 07:58:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LoginController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LoginController.php on line 12
+[12-Feb-2025 07:58:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BlogsController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BlogsController.php on line 11
+[12-Feb-2025 07:58:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreController.php on line 16
+[12-Feb-2025 07:59:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServicesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServicesController.php on line 28
+[12-Feb-2025 07:59:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Category.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Category.php on line 12
+[12-Feb-2025 07:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/DashboardController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/DashboardController.php on line 20
+[12-Feb-2025 07:59:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/FaqController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/FaqController.php on line 10
+[12-Feb-2025 07:59:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EventFeatures.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EventFeatures.php on line 12
+[12-Feb-2025 07:59:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceCategory.php on line 12
+[12-Feb-2025 07:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BookingController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BookingController.php on line 16
+[12-Feb-2025 08:00:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceRequestController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceRequestController.php on line 16
+[12-Feb-2025 08:00:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LogosController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LogosController.php on line 11
+[12-Feb-2025 08:00:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TransportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TransportController.php on line 12
+[12-Feb-2025 08:00:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HelpController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HelpController.php on line 10
+[12-Feb-2025 08:01:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreTypeController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreTypeController.php on line 10
+[12-Feb-2025 08:01:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningController.php on line 12
+[12-Feb-2025 08:01:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductImportExport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductImportExport.php on line 33
+[12-Feb-2025 08:01:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomeBannerSection.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomeBannerSection.php on line 9
+[12-Feb-2025 08:01:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceController.php on line 16
+[12-Feb-2025 10:24:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ActivityTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ActivityTypeController.php on line 11
+[12-Feb-2025 12:30:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersController.php on line 19
+[12-Feb-2025 12:43:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserDesignation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserDesignation.php on line 10
+[12-Feb-2025 15:53:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductImportExport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductImportExport.php on line 33
+[12-Feb-2025 16:12:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponBrand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponBrand.php on line 12
+[12-Feb-2025 16:31:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceController.php on line 16
+[12-Feb-2025 16:49:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceEarningsController.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceEarningsController.php on line 32
+[12-Feb-2025 20:31:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ReportController.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ReportController.php on line 30
+[12-Feb-2025 21:43:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomersController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomersController.php on line 23
+[12-Feb-2025 22:31:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SubscriberEmailController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SubscriberEmailController.php on line 15
+[13-Feb-2025 00:05:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponVoucherController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponVoucherController.php on line 16
+[13-Feb-2025 00:11:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EventFeatures.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EventFeatures.php on line 12
+[13-Feb-2025 00:21:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMasterImport.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMasterImport.php on line 34
+[13-Feb-2025 01:52:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/RatingController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/RatingController.php on line 16
+[13-Feb-2025 03:41:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductRequestController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductRequestController.php on line 12
+[13-Feb-2025 04:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceReportController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceReportController.php on line 8
+[13-Feb-2025 04:54:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TransportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TransportController.php on line 12
+[13-Feb-2025 05:06:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Category.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Category.php on line 12
+[13-Feb-2025 19:46:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AreaController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AreaController.php on line 13
+[14-Feb-2025 16:33:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HelpController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HelpController.php on line 10
+[14-Feb-2025 18:45:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PagesController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PagesController.php on line 17
+[14-Feb-2025 19:39:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMaster.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMaster.php on line 11
+[14-Feb-2025 23:34:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PromotionBannerController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PromotionBannerController.php on line 15
+[15-Feb-2025 02:19:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/OrderController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/OrderController.php on line 16
+[15-Feb-2025 02:22:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorLocationController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorLocationController.php on line 16
+[15-Feb-2025 06:12:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServicesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServicesController.php on line 28
+[15-Feb-2025 10:14:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ModaCategories.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ModaCategories.php on line 12
+[15-Feb-2025 14:58:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreController.php on line 16
+[15-Feb-2025 15:13:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomAppBanner.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomAppBanner.php on line 15
+[15-Feb-2025 18:33:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContactUsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContactUsController.php on line 8
+[16-Feb-2025 07:50:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductImportExport.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductImportExport.php on line 33
+[16-Feb-2025 08:23:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StatesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StatesController.php on line 11
+[16-Feb-2025 09:24:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponBrand.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponBrand.php on line 12
+[16-Feb-2025 11:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServicesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServicesController.php on line 28
+[16-Feb-2025 15:14:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EventFeatures.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EventFeatures.php on line 12
+[16-Feb-2025 15:18:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductRequestController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductRequestController.php on line 12
+[16-Feb-2025 16:45:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PromotionBannerController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PromotionBannerController.php on line 15
+[16-Feb-2025 17:21:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/DashboardController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/DashboardController.php on line 20
+[16-Feb-2025 18:47:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LoginController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LoginController.php on line 12
+[16-Feb-2025 19:28:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/IndustryTypesController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/IndustryTypesController.php on line 10
+[16-Feb-2025 19:34:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HealthBeautyCategory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HealthBeautyCategory.php on line 11
+[16-Feb-2025 22:24:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/RatingController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/RatingController.php on line 16
+[16-Feb-2025 22:38:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceController.php on line 16
+[16-Feb-2025 22:47:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HelpController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HelpController.php on line 10
+[16-Feb-2025 23:43:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BuildingTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BuildingTypeController.php on line 12
+[17-Feb-2025 03:18:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StatesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StatesController.php on line 11
+[17-Feb-2025 03:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreTypeController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreTypeController.php on line 10
+[17-Feb-2025 05:30:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TestimonialsController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TestimonialsController.php on line 11
+[17-Feb-2025 06:21:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AccountTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AccountTypeController.php on line 11
+[17-Feb-2025 06:50:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomersController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomersController.php on line 23
+[17-Feb-2025 07:06:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContactUsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContactUsController.php on line 8
+[17-Feb-2025 08:12:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PagesController.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PagesController.php on line 17
+[17-Feb-2025 08:14:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BlogsController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BlogsController.php on line 11
+[17-Feb-2025 11:29:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SubscriberEmailController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SubscriberEmailController.php on line 15
+[17-Feb-2025 11:32:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceRequestController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceRequestController.php on line 16
+[17-Feb-2025 12:21:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ModaCategories.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ModaCategories.php on line 12
+[17-Feb-2025 12:36:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ActivityTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ActivityTypeController.php on line 11
+[17-Feb-2025 13:00:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningsController.php:33
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningsController.php on line 33
+[17-Feb-2025 15:15:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HealthBeautyCategory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HealthBeautyCategory.php on line 11
+[17-Feb-2025 15:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersTypeController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersTypeController.php on line 10
+[17-Feb-2025 15:58:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CitiesController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CitiesController.php on line 12
+[17-Feb-2025 16:47:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponsController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponsController.php on line 21
+[17-Feb-2025 18:03:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorLocationController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorLocationController.php on line 16
+[17-Feb-2025 18:13:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/NotificationController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/NotificationController.php on line 13
+[17-Feb-2025 19:35:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Brand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Brand.php on line 13
+[17-Feb-2025 20:01:34 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductController.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductController.php on line 44
+[17-Feb-2025 20:05:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorsController.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorsController.php on line 34
+[17-Feb-2025 20:49:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ReportController.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ReportController.php on line 30
+[17-Feb-2025 21:15:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SkinColor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SkinColor.php on line 10
+[17-Feb-2025 21:51:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CitiesController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CitiesController.php on line 12
+[17-Feb-2025 22:00:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorsController.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorsController.php on line 34
+[17-Feb-2025 22:23:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceEarningsController.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceEarningsController.php on line 32
+[17-Feb-2025 23:55:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserController.php on line 15
+[18-Feb-2025 02:04:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMaster.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMaster.php on line 11
+[18-Feb-2025 02:24:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceTypeController.php on line 11
+[18-Feb-2025 02:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceRequestController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceRequestController.php on line 16
+[18-Feb-2025 03:27:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AttributeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AttributeController.php on line 12
+[18-Feb-2025 03:47:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMasterImport.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMasterImport.php on line 34
+[18-Feb-2025 06:49:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CuisinesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CuisinesController.php on line 11
+[18-Feb-2025 06:53:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomebannerController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomebannerController.php on line 11
+[18-Feb-2025 07:33:13 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductFeatures.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductFeatures.php on line 12
+[18-Feb-2025 08:34:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/OrderController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/OrderController.php on line 16
+[18-Feb-2025 09:19:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersController.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersController.php on line 19
+[18-Feb-2025 09:31:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningController.php on line 12
+[18-Feb-2025 09:31:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponCategory.php on line 12
+[18-Feb-2025 09:41:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BankController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BankController.php on line 10
+[18-Feb-2025 09:48:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CountryController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CountryController.php on line 10
+[18-Feb-2025 10:18:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BannerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BannerController.php on line 16
+[18-Feb-2025 12:41:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserController.php on line 15
+[18-Feb-2025 15:33:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningController.php on line 12
+[20-Feb-2025 01:10:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SkinColor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SkinColor.php on line 10
+[20-Feb-2025 02:09:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BookingController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BookingController.php on line 16
+[20-Feb-2025 03:02:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HairColor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HairColor.php on line 10
+[20-Feb-2025 11:10:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BlogsController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BlogsController.php on line 11
+[20-Feb-2025 21:56:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersTypeController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersTypeController.php on line 10
+[20-Feb-2025 22:18:36 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/DashboardController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/DashboardController.php on line 20
+[20-Feb-2025 23:39:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductController.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductController.php on line 44
+[21-Feb-2025 00:11:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/UsersController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/UsersController.php on line 20
+[21-Feb-2025 01:02:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomAppBanner.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomAppBanner.php on line 15
+[21-Feb-2025 01:28:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/NotificationController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/NotificationController.php on line 13
+[21-Feb-2025 01:54:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TestimonialsController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TestimonialsController.php on line 11
+[21-Feb-2025 02:02:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductFeatures.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductFeatures.php on line 12
+[21-Feb-2025 04:19:00 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BookingController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BookingController.php on line 16
+[21-Feb-2025 05:33:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AttributeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AttributeController.php on line 12
+[21-Feb-2025 06:28:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BankController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BankController.php on line 10
+[21-Feb-2025 06:50:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceTypeController.php on line 11
+[21-Feb-2025 10:29:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LogosController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LogosController.php on line 11
+[22-Feb-2025 18:36:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreController.php on line 16
+[23-Feb-2025 07:24:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserDesignation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserDesignation.php on line 10
+[23-Feb-2025 13:23:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomeBannerSection.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomeBannerSection.php on line 9
+[25-Feb-2025 01:01:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AreaController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AreaController.php on line 13
+[26-Feb-2025 02:19:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HairColor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HairColor.php on line 10
+[26-Feb-2025 11:07:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/MainCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/MainCategory.php on line 12
+[27-Feb-2025 07:26:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductFeatures.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductFeatures.php on line 12
+[27-Feb-2025 14:16:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductRequestController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductRequestController.php on line 12
+[27-Feb-2025 16:32:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BannerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BannerController.php on line 16
+[27-Feb-2025 19:41:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponVoucherController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponVoucherController.php on line 16
+[27-Feb-2025 21:10:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContactUsController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContactUsController.php on line 8
+[28-Feb-2025 01:20:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersTypeController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoremanagersTypeController.php on line 10
+[28-Feb-2025 05:21:18 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Category.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Category.php on line 12
+[28-Feb-2025 07:29:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/MainCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/MainCategory.php on line 12
+[28-Feb-2025 08:30:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceCategory.php on line 12
+[28-Feb-2025 10:40:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServicesController.php:28
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServicesController.php on line 28
+[28-Feb-2025 12:13:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/DashboardController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/DashboardController.php on line 20
+[28-Feb-2025 16:33:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Category.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Category.php on line 12
+[28-Feb-2025 18:14:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BuildingTypeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BuildingTypeController.php on line 12
+[28-Feb-2025 22:47:03 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EarningController.php on line 12
+[01-Mar-2025 01:59:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserController.php on line 15
+[01-Mar-2025 02:10:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LogosController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LogosController.php on line 11
+[01-Mar-2025 03:41:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HelpController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HelpController.php on line 10
+[01-Mar-2025 12:20:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SkinColor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SkinColor.php on line 10
+[01-Mar-2025 14:33:52 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceReportController.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceReportController.php on line 8
+[01-Mar-2025 15:04:06 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomeBannerSection.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HomeBannerSection.php on line 9
+[01-Mar-2025 15:39:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ModaCategories.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ModaCategories.php on line 12
+[01-Mar-2025 15:47:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMaster.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMaster.php on line 11
+[01-Mar-2025 19:44:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AccountTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AccountTypeController.php on line 11
+[02-Mar-2025 02:08:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/OrderController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/OrderController.php on line 16
+[02-Mar-2025 05:23:35 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StatesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StatesController.php on line 11
+[02-Mar-2025 08:17:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserDesignation.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AdminUserDesignation.php on line 10
+[02-Mar-2025 10:38:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorLocationController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/VendorLocationController.php on line 16
+[02-Mar-2025 16:32:12 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Brand.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/Brand.php on line 13
+[02-Mar-2025 19:48:30 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomAppBanner.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomAppBanner.php on line 15
+[02-Mar-2025 20:35:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponVoucherController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponVoucherController.php on line 16
+[02-Mar-2025 20:36:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TransportController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/TransportController.php on line 12
+[02-Mar-2025 21:44:42 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/UsersController.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/UsersController.php on line 20
+[02-Mar-2025 22:27:10 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductController.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductController.php on line 44
+[02-Mar-2025 23:11:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BannerController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BannerController.php on line 16
+[03-Mar-2025 02:18:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HealthBeautyCategory.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HealthBeautyCategory.php on line 11
+[03-Mar-2025 02:40:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ContractMaintenanceController.php on line 16
+[03-Mar-2025 04:05:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponsController.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponsController.php on line 21
+[03-Mar-2025 06:38:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMasterImport.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ProductMasterImport.php on line 34
+[03-Mar-2025 07:20:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceCategory.php on line 12
+[03-Mar-2025 07:28:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceRequestController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceRequestController.php on line 16
+[03-Mar-2025 07:37:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreTypeController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreTypeController.php on line 10
+[03-Mar-2025 07:49:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PromotionBannerController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/PromotionBannerController.php on line 15
+[03-Mar-2025 08:15:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/FaqController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/FaqController.php on line 10
+[03-Mar-2025 09:07:09 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/StoreController.php on line 16
+[03-Mar-2025 09:26:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SubscriberEmailController.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/SubscriberEmailController.php on line 15
+[03-Mar-2025 13:13:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ActivityTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ActivityTypeController.php on line 11
+[03-Mar-2025 13:35:23 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponCategory.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CouponCategory.php on line 12
+[03-Mar-2025 17:29:58 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EventFeatures.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/EventFeatures.php on line 12
+[04-Mar-2025 20:50:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceEarningsController.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceEarningsController.php on line 32
+[05-Mar-2025 00:56:25 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomersController.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CustomersController.php on line 23
+[05-Mar-2025 02:48:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BankController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BankController.php on line 10
+[05-Mar-2025 10:45:07 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BookingController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/BookingController.php on line 16
+[05-Mar-2025 18:38:24 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/NotificationController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/NotificationController.php on line 13
+[06-Mar-2025 09:52:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LoginController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/LoginController.php on line 12
+[06-Mar-2025 15:41:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceTypeController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/ServiceTypeController.php on line 11
+[08-Mar-2025 11:03:57 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/RatingController.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/RatingController.php on line 16
+[08-Mar-2025 11:24:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CuisinesController.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/CuisinesController.php on line 11
+[08-Mar-2025 11:48:50 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HairColor.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/HairColor.php on line 10
+[08-Mar-2025 18:18:55 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/FaqController.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/FaqController.php on line 10
+[08-Mar-2025 20:34:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AreaController.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AreaController.php on line 13
+[08-Mar-2025 23:26:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AttributeController.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Controllers/admin/AttributeController.php on line 12

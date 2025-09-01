@@ -1,0 +1,128 @@
+[24-Jan-2025 07:18:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php on line 7
+[24-Jan-2025 10:19:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php on line 7
+[24-Jan-2025 10:24:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php on line 7
+[24-Jan-2025 10:32:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php on line 8
+[05-Feb-2025 12:35:39 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php on line 7
+[07-Feb-2025 06:14:07 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php on line 7
+[07-Feb-2025 06:14:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php on line 7
+[07-Feb-2025 06:14:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php on line 8
+[07-Feb-2025 06:14:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php on line 7
+[08-Feb-2025 04:05:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php on line 7
+[08-Feb-2025 11:33:29 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php on line 7
+[08-Feb-2025 13:25:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php on line 8
+[08-Feb-2025 20:30:37 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php on line 7
+[08-Feb-2025 21:29:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php on line 8
+[09-Feb-2025 07:52:15 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php on line 7
+[09-Feb-2025 14:15:16 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php on line 7
+[19-Feb-2025 17:11:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php on line 7
+[19-Feb-2025 17:11:10 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php on line 8
+[19-Feb-2025 17:11:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php on line 7
+[19-Feb-2025 17:11:14 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php on line 7
+[20-Feb-2025 18:00:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php on line 8
+[20-Feb-2025 18:00:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php on line 7
+[20-Feb-2025 18:00:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php on line 7
+[20-Feb-2025 18:00:24 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php on line 7
+[20-Feb-2025 18:00:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php on line 8
+[20-Feb-2025 18:00:40 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php on line 7
+[20-Feb-2025 18:00:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php on line 7
+[20-Feb-2025 18:00:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php on line 7
+[21-Feb-2025 14:19:51 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/DatabaseSeeder.php on line 7
+[21-Feb-2025 18:08:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/AdminSeeder.php on line 7
+[21-Feb-2025 22:05:04 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/VendorSeeder.php on line 7
+[22-Feb-2025 00:11:58 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Seeder" not found in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/seeders/CountrySeeder.php on line 8

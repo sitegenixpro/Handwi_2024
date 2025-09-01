@@ -1,0 +1,36 @@
+[24-Jan-2025 11:42:41 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php on line 8
+[02-Feb-2025 14:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php on line 8
+[05-Feb-2025 10:12:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php on line 8
+[06-Feb-2025 10:03:03 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php on line 8
+[17-Feb-2025 18:41:01 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php on line 8
+[18-Feb-2025 13:46:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php on line 8
+[18-Feb-2025 19:49:38 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php on line 8
+[09-Mar-2025 14:19:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php on line 8
+[10-Mar-2025 01:08:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Model" not found in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/CategoriesCoupons.php on line 8

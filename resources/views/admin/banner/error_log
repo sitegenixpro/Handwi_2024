@@ -1,0 +1,259 @@
+[12-Feb-2025 09:09:22 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[12-Feb-2025 09:09:22 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[12-Feb-2025 09:09:22 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 148
+[12-Feb-2025 09:09:22 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[12-Feb-2025 09:09:22 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[12-Feb-2025 09:09:22 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[12-Feb-2025 09:09:22 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php:199
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php(199): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[12-Feb-2025 11:18:34 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[12-Feb-2025 11:18:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[12-Feb-2025 11:18:38 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[12-Feb-2025 11:18:38 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[12-Feb-2025 11:18:38 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[12-Feb-2025 11:18:38 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[12-Feb-2025 11:18:46 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[12-Feb-2025 11:18:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[12-Feb-2025 11:18:49 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[12-Feb-2025 11:18:49 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[12-Feb-2025 11:18:49 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 148
+[12-Feb-2025 11:18:49 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[12-Feb-2025 11:18:49 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[12-Feb-2025 11:18:49 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[12-Feb-2025 11:18:49 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php:199
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php(199): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 158
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[12-Feb-2025 11:18:55 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[12-Feb-2025 11:18:55 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php:209
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php(209): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[12-Feb-2025 15:01:26 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[12-Feb-2025 15:01:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 158
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[12-Feb-2025 18:59:42 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[12-Feb-2025 18:59:42 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php:209
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php(209): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[20-Feb-2025 05:29:27 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[20-Feb-2025 05:29:27 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[20-Feb-2025 05:29:27 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[20-Feb-2025 05:29:27 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[21-Feb-2025 01:24:24 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[21-Feb-2025 01:24:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[22-Feb-2025 21:49:59 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[22-Feb-2025 21:49:59 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[22-Feb-2025 21:49:59 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 148
+[22-Feb-2025 21:49:59 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[22-Feb-2025 21:49:59 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[22-Feb-2025 21:49:59 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[22-Feb-2025 21:49:59 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php:199
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php(199): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 158
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[24-Feb-2025 09:13:08 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[24-Feb-2025 09:13:08 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php:209
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php(209): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[24-Feb-2025 09:13:09 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[24-Feb-2025 09:13:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[24-Feb-2025 09:13:10 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[24-Feb-2025 09:13:10 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[24-Feb-2025 09:13:10 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 148
+[24-Feb-2025 09:13:10 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[24-Feb-2025 09:13:10 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[24-Feb-2025 09:13:10 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[24-Feb-2025 09:13:10 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php:199
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php(199): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[24-Feb-2025 09:13:11 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[24-Feb-2025 09:13:11 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[24-Feb-2025 09:13:11 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[24-Feb-2025 09:13:11 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[24-Feb-2025 09:13:14 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[24-Feb-2025 09:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 158
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[24-Feb-2025 09:25:49 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[24-Feb-2025 09:25:49 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php:209
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php(209): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[24-Feb-2025 09:25:51 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[24-Feb-2025 09:25:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 148
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[24-Feb-2025 09:25:52 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[24-Feb-2025 09:25:52 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php:199
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php(199): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[24-Feb-2025 09:25:54 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[24-Feb-2025 09:25:54 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[24-Feb-2025 09:25:54 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[24-Feb-2025 09:25:54 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[24-Feb-2025 09:25:56 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[24-Feb-2025 09:25:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[26-Feb-2025 08:16:58 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[26-Feb-2025 08:16:58 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 109
+[26-Feb-2025 08:16:58 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 148
+[26-Feb-2025 08:16:58 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[26-Feb-2025 08:16:58 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[26-Feb-2025 08:16:58 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[26-Feb-2025 08:16:58 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php:199
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php(199): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/create.blade.php on line 199
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 158
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[26-Feb-2025 08:17:02 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[26-Feb-2025 08:17:02 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php:209
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php(209): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[26-Feb-2025 08:17:04 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[26-Feb-2025 08:17:04 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[26-Feb-2025 08:17:04 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[26-Feb-2025 08:17:04 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[26-Feb-2025 08:17:06 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[26-Feb-2025 08:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[26-Feb-2025 08:17:08 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[26-Feb-2025 08:17:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[26-Feb-2025 17:45:21 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[26-Feb-2025 17:45:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/list.blade.php on line 62
+[26-Feb-2025 22:33:59 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[26-Feb-2025 22:33:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php:42
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/web_banner.blade.php on line 42
+[28-Feb-2025 16:11:04 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[28-Feb-2025 16:11:04 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[28-Feb-2025 16:11:04 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[28-Feb-2025 16:11:04 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 158
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[01-Mar-2025 03:56:07 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[01-Mar-2025 03:56:07 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php:209
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php(209): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[08-Mar-2025 04:44:13 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[08-Mar-2025 04:44:13 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 38
+[08-Mar-2025 04:44:13 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[08-Mar-2025 04:44:13 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit_web_banner.blade.php on line 39
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 94
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Undefined variable $banner in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 95
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Undefined variable $value in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 112
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 158
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Undefined variable $parent_cat_id in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[08-Mar-2025 10:32:34 UTC] PHP Warning:  Undefined variable $category_ids in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209
+[08-Mar-2025 10:32:34 UTC] PHP Fatal error:  Uncaught TypeError: in_array(): Argument #2 ($haystack) must be of type array, null given in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php:209
+Stack trace:
+#0 /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php(209): in_array(NULL, NULL)
+#1 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/banner/edit.blade.php on line 209

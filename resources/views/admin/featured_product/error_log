@@ -1,0 +1,24 @@
+[12-Feb-2025 11:21:59 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[12-Feb-2025 11:21:59 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[12-Feb-2025 11:21:59 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[12-Feb-2025 11:21:59 UTC] PHP Warning:  Attempt to read property "name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[18-Feb-2025 12:41:58 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[18-Feb-2025 12:41:58 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[18-Feb-2025 12:41:58 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[18-Feb-2025 12:41:58 UTC] PHP Warning:  Attempt to read property "name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[24-Feb-2025 09:10:27 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[24-Feb-2025 09:10:27 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[24-Feb-2025 09:10:27 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[24-Feb-2025 09:10:27 UTC] PHP Warning:  Attempt to read property "name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[24-Feb-2025 09:22:35 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[24-Feb-2025 09:22:35 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[24-Feb-2025 09:22:35 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[24-Feb-2025 09:22:35 UTC] PHP Warning:  Attempt to read property "name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[27-Feb-2025 08:45:45 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[27-Feb-2025 08:45:45 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[27-Feb-2025 08:45:45 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[27-Feb-2025 08:45:45 UTC] PHP Warning:  Attempt to read property "name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[03-Mar-2025 07:15:13 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[03-Mar-2025 07:15:13 UTC] PHP Warning:  Attempt to read property "id" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[03-Mar-2025 07:15:13 UTC] PHP Warning:  Undefined variable $prod in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53
+[03-Mar-2025 07:15:13 UTC] PHP Warning:  Attempt to read property "name" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/featured_product/create.blade.php on line 53

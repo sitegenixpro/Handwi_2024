@@ -1,0 +1,28 @@
+[25-Jan-2025 06:34:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php on line 78
+[08-Feb-2025 22:50:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php on line 78
+[09-Feb-2025 16:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php on line 78
+[14-Feb-2025 03:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php on line 78
+[24-Feb-2025 09:04:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php on line 78
+[24-Feb-2025 09:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php on line 78
+[25-Feb-2025 06:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php:78
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/email_templates/order_success.blade.php on line 78

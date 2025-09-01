@@ -1,0 +1,40 @@
+[24-Jan-2025 21:20:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php on line 165
+[12-Feb-2025 11:19:49 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 44
+[12-Feb-2025 11:19:49 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 45
+[12-Feb-2025 11:19:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php on line 165
+[13-Feb-2025 18:48:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php on line 165
+[17-Feb-2025 16:11:47 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 44
+[17-Feb-2025 16:11:47 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 45
+[24-Feb-2025 09:09:32 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 44
+[24-Feb-2025 09:09:32 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 45
+[24-Feb-2025 09:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php on line 165
+[24-Feb-2025 09:21:36 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 44
+[24-Feb-2025 09:21:36 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 45
+[24-Feb-2025 09:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php on line 165
+[26-Feb-2025 01:32:05 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 44
+[26-Feb-2025 01:32:05 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 45
+[27-Feb-2025 00:35:00 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 44
+[27-Feb-2025 00:35:00 UTC] PHP Warning:  Undefined variable $active in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/create.blade.php on line 45
+[27-Feb-2025 00:35:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php on line 165
+[02-Mar-2025 18:03:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function url() in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php:165
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/product_master/master_product_import.blade.php on line 165

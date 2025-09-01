@@ -1,0 +1,264 @@
+[10-Feb-2025 21:35:26 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PaymentIntRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PaymentIntRequest.php on line 7
+[11-Feb-2025 08:29:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryMessageRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryMessageRequest.php on line 7
+[11-Feb-2025 21:37:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateCartRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateCartRequest.php on line 7
+[11-Feb-2025 23:06:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeEmailRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeEmailRequest.php on line 7
+[12-Feb-2025 08:01:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderShowRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderShowRequest.php on line 7
+[12-Feb-2025 08:01:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PaymentIntRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PaymentIntRequest.php on line 7
+[12-Feb-2025 08:02:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeEmailRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeEmailRequest.php on line 7
+[12-Feb-2025 08:02:15 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeStatusRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeStatusRequest.php on line 7
+[12-Feb-2025 08:02:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/TraderHomeRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/TraderHomeRequest.php on line 7
+[12-Feb-2025 08:02:33 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangePasswordRequest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangePasswordRequest.php on line 6
+[12-Feb-2025 08:02:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateCartRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateCartRequest.php on line 7
+[12-Feb-2025 08:02:53 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/DeleteCartRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/DeleteCartRequest.php on line 7
+[12-Feb-2025 08:02:59 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateProfileRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateProfileRequest.php on line 5
+[12-Feb-2025 08:03:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/QuotationRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/QuotationRequest.php on line 7
+[12-Feb-2025 08:03:14 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryMessageRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryMessageRequest.php on line 7
+[12-Feb-2025 08:03:27 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderListRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderListRequest.php on line 7
+[12-Feb-2025 08:03:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OTPRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OTPRequest.php on line 7
+[12-Feb-2025 08:03:46 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/LoginRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/LoginRequest.php on line 7
+[12-Feb-2025 08:03:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/AddToCartRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/AddToCartRequest.php on line 7
+[12-Feb-2025 08:04:02 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderChangeStatusRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderChangeStatusRequest.php on line 7
+[12-Feb-2025 08:04:13 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/BaseRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/BaseRequest.php on line 10
+[12-Feb-2025 08:04:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/RegistrationRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/RegistrationRequest.php on line 7
+[12-Feb-2025 08:04:31 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryListRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryListRequest.php on line 7
+[12-Feb-2025 08:04:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderDetailRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderDetailRequest.php on line 7
+[12-Feb-2025 08:04:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PlaceOrderRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PlaceOrderRequest.php on line 7
+[12-Feb-2025 08:04:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/CityRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/CityRequest.php on line 7
+[12-Feb-2025 15:47:39 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/RegistrationRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/RegistrationRequest.php on line 7
+[12-Feb-2025 16:17:54 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/AddToCartRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/AddToCartRequest.php on line 7
+[12-Feb-2025 18:35:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangePasswordRequest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangePasswordRequest.php on line 6
+[12-Feb-2025 20:18:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderChangeStatusRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderChangeStatusRequest.php on line 7
+[12-Feb-2025 21:23:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/QuotationRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/QuotationRequest.php on line 7
+[13-Feb-2025 00:57:11 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/DeleteCartRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/DeleteCartRequest.php on line 7
+[13-Feb-2025 01:44:04 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderListRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderListRequest.php on line 7
+[14-Feb-2025 23:37:43 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/CityRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/CityRequest.php on line 7
+[15-Feb-2025 01:35:11 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/BaseRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/BaseRequest.php on line 10
+[15-Feb-2025 16:41:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderShowRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderShowRequest.php on line 7
+[18-Feb-2025 02:21:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateProfileRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateProfileRequest.php on line 5
+[18-Feb-2025 10:06:01 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/TraderHomeRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/TraderHomeRequest.php on line 7
+[18-Feb-2025 10:19:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryListRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryListRequest.php on line 7
+[18-Feb-2025 12:51:47 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PlaceOrderRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PlaceOrderRequest.php on line 7
+[19-Feb-2025 01:22:34 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/BaseRequest.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/BaseRequest.php on line 10
+[19-Feb-2025 01:39:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangePasswordRequest.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangePasswordRequest.php on line 6
+[19-Feb-2025 03:53:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderListRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderListRequest.php on line 7
+[19-Feb-2025 11:43:22 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/RegistrationRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/RegistrationRequest.php on line 7
+[19-Feb-2025 13:31:29 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/QuotationRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/QuotationRequest.php on line 7
+[19-Feb-2025 17:00:28 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/TraderHomeRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/TraderHomeRequest.php on line 7
+[19-Feb-2025 23:42:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PaymentIntRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PaymentIntRequest.php on line 7
+[20-Feb-2025 07:14:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/CityRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/CityRequest.php on line 7
+[21-Feb-2025 00:54:38 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/LoginRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/LoginRequest.php on line 7
+[21-Feb-2025 03:49:16 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderDetailRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderDetailRequest.php on line 7
+[21-Feb-2025 04:26:51 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OTPRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OTPRequest.php on line 7
+[21-Feb-2025 07:27:32 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeStatusRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeStatusRequest.php on line 7
+[21-Feb-2025 18:31:50 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Http\FormRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderShowRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderShowRequest.php on line 7
+[21-Feb-2025 20:38:17 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeEmailRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeEmailRequest.php on line 7
+[23-Feb-2025 19:17:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeStatusRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/ChangeStatusRequest.php on line 7
+[25-Feb-2025 10:27:19 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateCartRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateCartRequest.php on line 7
+[25-Feb-2025 19:42:48 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderDetailRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderDetailRequest.php on line 7
+[26-Feb-2025 13:39:44 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OTPRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OTPRequest.php on line 7
+[26-Feb-2025 16:09:41 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PlaceOrderRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/PlaceOrderRequest.php on line 7
+[27-Feb-2025 01:55:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryMessageRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryMessageRequest.php on line 7
+[27-Feb-2025 11:45:45 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/LoginRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/LoginRequest.php on line 7
+[27-Feb-2025 19:57:37 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateProfileRequest.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/UpdateProfileRequest.php on line 5
+[28-Feb-2025 17:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/DeleteCartRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/DeleteCartRequest.php on line 7
+[01-Mar-2025 12:38:40 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderChangeStatusRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/OrderChangeStatusRequest.php on line 7
+[03-Mar-2025 05:56:21 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/AddToCartRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/AddToCartRequest.php on line 7
+[03-Mar-2025 09:49:08 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Requests\Api\BaseRequest" not found in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryListRequest.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/app/Http/Requests/Api/EnquiryListRequest.php on line 7

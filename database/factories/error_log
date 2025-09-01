@@ -1,0 +1,32 @@
+[24-Jan-2025 12:22:57 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php on line 8
+[07-Feb-2025 06:14:23 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php on line 8
+[08-Feb-2025 20:54:48 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php on line 8
+[11-Feb-2025 23:30:55 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php on line 8
+[19-Feb-2025 13:00:47 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php on line 8
+[20-Feb-2025 15:40:52 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php on line 8
+[20-Feb-2025 15:49:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php on line 8
+[21-Feb-2025 21:40:59 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Database\Eloquent\Factories\Factory" not found in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/database/factories/UserFactory.php on line 8

@@ -1,0 +1,70 @@
+[12-Feb-2025 11:10:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php on line 77
+[12-Feb-2025 11:10:24 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[12-Feb-2025 11:10:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[12-Feb-2025 11:10:28 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[12-Feb-2025 11:10:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[13-Feb-2025 13:42:27 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[13-Feb-2025 13:42:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[13-Feb-2025 19:05:29 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[13-Feb-2025 19:05:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[17-Feb-2025 11:52:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php on line 77
+[17-Feb-2025 15:40:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php on line 77
+[17-Feb-2025 19:51:24 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[17-Feb-2025 19:51:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[21-Feb-2025 13:51:26 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[21-Feb-2025 13:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[24-Feb-2025 09:07:08 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[24-Feb-2025 09:07:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[24-Feb-2025 09:07:10 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[24-Feb-2025 09:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[24-Feb-2025 09:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php on line 77
+[24-Feb-2025 09:19:11 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[24-Feb-2025 09:19:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php:85
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/orders.blade.php on line 85
+[24-Feb-2025 09:19:14 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[24-Feb-2025 09:19:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php:66
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/customer_list.blade.php on line 66
+[24-Feb-2025 09:19:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php:77
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/reports/booking_workshop_list.blade.php on line 77

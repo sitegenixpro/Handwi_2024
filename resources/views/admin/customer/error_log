@@ -1,0 +1,65 @@
+[12-Feb-2025 11:22:29 UTC] PHP Warning:  Undefined variable $ref_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[12-Feb-2025 11:22:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[12-Feb-2025 11:22:33 UTC] PHP Warning:  Undefined variable $wallet_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[12-Feb-2025 11:22:33 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[13-Feb-2025 09:55:44 UTC] PHP Warning:  Undefined variable $wallet_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[13-Feb-2025 09:55:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[14-Feb-2025 23:38:16 UTC] PHP Warning:  Undefined variable $ref_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[14-Feb-2025 23:38:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[21-Feb-2025 07:06:11 UTC] PHP Warning:  Undefined variable $ref_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[21-Feb-2025 07:06:11 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[24-Feb-2025 09:11:45 UTC] PHP Warning:  Undefined variable $ref_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[24-Feb-2025 09:11:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[24-Feb-2025 09:12:15 UTC] PHP Warning:  Undefined variable $wallet_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[24-Feb-2025 09:12:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[24-Feb-2025 09:24:20 UTC] PHP Warning:  Undefined variable $ref_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[24-Feb-2025 09:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[24-Feb-2025 09:24:56 UTC] PHP Warning:  Undefined variable $wallet_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[24-Feb-2025 09:24:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[26-Feb-2025 13:27:34 UTC] PHP Warning:  Undefined variable $wallet_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[26-Feb-2025 13:27:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[27-Feb-2025 08:43:08 UTC] PHP Warning:  Undefined variable $ref_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[27-Feb-2025 08:43:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[27-Feb-2025 08:43:19 UTC] PHP Warning:  Undefined variable $wallet_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[27-Feb-2025 08:43:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/wallet_history.blade.php on line 71
+[05-Mar-2025 07:20:36 UTC] PHP Warning:  Undefined variable $ref_history in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38
+[05-Mar-2025 07:20:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/customer/ref_history.blade.php on line 38

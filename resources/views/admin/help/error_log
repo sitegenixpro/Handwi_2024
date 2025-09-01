@@ -1,0 +1,63 @@
+[12-Feb-2025 11:25:57 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[12-Feb-2025 11:25:57 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[12-Feb-2025 11:25:57 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[12-Feb-2025 11:25:57 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[12-Feb-2025 11:26:01 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[12-Feb-2025 11:26:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[13-Feb-2025 16:55:14 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[13-Feb-2025 16:55:14 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[14-Feb-2025 09:38:25 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[14-Feb-2025 09:38:25 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[14-Feb-2025 09:38:25 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[14-Feb-2025 09:38:25 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[16-Feb-2025 22:27:56 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[16-Feb-2025 22:27:56 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[16-Feb-2025 22:27:56 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[16-Feb-2025 22:27:56 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[24-Feb-2025 09:38:17 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[24-Feb-2025 09:38:17 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[24-Feb-2025 09:38:17 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[24-Feb-2025 09:38:17 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[24-Feb-2025 09:38:18 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[24-Feb-2025 09:38:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[24-Feb-2025 09:38:23 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[24-Feb-2025 09:38:23 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[24-Feb-2025 09:38:23 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[24-Feb-2025 09:38:23 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[24-Feb-2025 09:38:24 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[24-Feb-2025 09:38:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[26-Feb-2025 01:03:38 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[26-Feb-2025 01:03:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[27-Feb-2025 08:47:03 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[27-Feb-2025 08:47:03 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[27-Feb-2025 08:47:03 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[27-Feb-2025 08:47:03 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[27-Feb-2025 08:47:18 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[27-Feb-2025 08:47:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[05-Mar-2025 05:11:46 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[05-Mar-2025 05:11:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php:48
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/list.blade.php on line 48
+[09-Mar-2025 00:16:33 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[09-Mar-2025 00:16:33 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 23
+[09-Mar-2025 00:16:33 UTC] PHP Warning:  Undefined variable $faq in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24
+[09-Mar-2025 00:16:33 UTC] PHP Warning:  Attempt to read property "active" on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/help/edit.blade.php on line 24

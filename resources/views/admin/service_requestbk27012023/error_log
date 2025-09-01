@@ -1,0 +1,119 @@
+[11-Feb-2025 09:21:30 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[11-Feb-2025 09:21:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[12-Feb-2025 06:53:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php on line 53
+[12-Feb-2025 11:27:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php on line 53
+[12-Feb-2025 11:27:12 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[12-Feb-2025 11:27:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[12-Feb-2025 11:27:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php on line 53
+[12-Feb-2025 11:27:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php on line 32
+[12-Feb-2025 15:05:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php on line 32
+[13-Feb-2025 06:19:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php on line 53
+[16-Feb-2025 17:35:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php on line 53
+[16-Feb-2025 23:50:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php on line 53
+[17-Feb-2025 20:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php on line 32
+[18-Feb-2025 12:23:15 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[18-Feb-2025 12:23:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[24-Feb-2025 09:10:12 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[24-Feb-2025 09:10:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[24-Feb-2025 09:11:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php on line 53
+[24-Feb-2025 09:11:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php on line 32
+[24-Feb-2025 09:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php on line 53
+[24-Feb-2025 09:22:24 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[24-Feb-2025 09:22:24 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[24-Feb-2025 09:23:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php on line 53
+[24-Feb-2025 09:23:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php on line 32
+[24-Feb-2025 09:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php on line 53
+[25-Feb-2025 14:06:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php on line 53
+[25-Feb-2025 14:06:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php on line 32
+[25-Feb-2025 14:06:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php on line 53
+[25-Feb-2025 14:06:15 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[25-Feb-2025 14:06:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[28-Feb-2025 18:19:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade - Copy.php on line 53
+[28-Feb-2025 18:19:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details.blade.php on line 32
+[28-Feb-2025 18:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/details_edit.blade.php on line 53
+[28-Feb-2025 18:19:35 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71
+[28-Feb-2025 18:19:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/admin/service_requestbk27012023/list.blade.php on line 71

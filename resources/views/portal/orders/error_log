@@ -1,0 +1,78 @@
+[12-Feb-2025 11:11:12 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[12-Feb-2025 11:11:12 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[12-Feb-2025 11:11:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php on line 53
+[12-Feb-2025 11:11:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php on line 53
+[13-Feb-2025 20:22:15 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[13-Feb-2025 20:22:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[13-Feb-2025 20:37:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php on line 53
+[14-Feb-2025 01:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php on line 53
+[22-Feb-2025 17:03:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php on line 53
+[24-Feb-2025 09:07:32 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[24-Feb-2025 09:07:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[24-Feb-2025 09:07:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php on line 53
+[24-Feb-2025 09:07:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php on line 53
+[24-Feb-2025 09:20:44 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[24-Feb-2025 09:20:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[24-Feb-2025 09:22:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php on line 53
+[24-Feb-2025 09:22:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php on line 53
+[26-Feb-2025 13:34:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php on line 53
+[28-Feb-2025 17:31:00 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[28-Feb-2025 17:31:00 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[28-Feb-2025 20:31:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details_edit.blade.php on line 53
+[01-Mar-2025 19:17:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function config() in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/details.blade.php on line 53
+[08-Mar-2025 22:58:47 UTC] PHP Warning:  Undefined variable $list in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
+[08-Mar-2025 22:58:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function perPage() on null in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/dxbitprojects/public_html/handwi/resources/views/portal/orders/list.blade.php on line 86
